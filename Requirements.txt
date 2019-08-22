@@ -1,0 +1,6 @@
+Following are required to be able run the code:
+
+1) Python3
+2) datetime
+3) time
+4) re (Regular Expressions)
